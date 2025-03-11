@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\migrations\\20250310053932_yolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:migrations\\20250310053932_yolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\moviesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:moviesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\moviesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:moviesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|c:\\users\\patricia\\onedrive\\desktop\\interview\\api_ef\\moviesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D26C61D4-A2E4-4E37-B090-D36FA2F3D62C}|MoviesAPI.csproj|solutionrelative:moviesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:43:00.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250310053932_yolo.cs",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Migrations\\20250310053932_yolo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250310053932_yolo.cs",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Migrations\\20250310053932_yolo.cs",
+              "RelativeToolTip": "Migrations\\20250310053932_yolo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:39:32.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:38:45.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoviesAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\MoviesAPI.csproj",
+              "RelativeDocumentMoniker": "MoviesAPI.csproj",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\MoviesAPI.csproj",
+              "RelativeToolTip": "MoviesAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T05:12:33.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoviesAPI",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\MoviesAPI.csproj",
+              "RelativeDocumentMoniker": "MoviesAPI.csproj",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\MoviesAPI.csproj",
+              "RelativeToolTip": "MoviesAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T14:22:53.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:44:37.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T00:27:55.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwE4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:34:37.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T08:34:34.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MoviesAPI.http",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\MoviesAPI.http",
+              "RelativeDocumentMoniker": "MoviesAPI.http",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\MoviesAPI.http",
+              "RelativeToolTip": "MoviesAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-06T08:34:33.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:23:42.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:20:34.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\PATRICIA\\OneDrive\\Desktop\\interview\\API_EF\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:20:18.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
